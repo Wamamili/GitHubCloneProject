@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+# GitHubCloneProject
 
-=======
-This is the description of my repo
+## Objective
+Practice branching, merging, and resolving conflicts to simulate a real-world Git collaborative workflow.
+
 Modification in main branch.
->>>>>>> 05dc9a7 (Modify README in main branch)
