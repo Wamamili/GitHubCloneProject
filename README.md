@@ -1,3 +1,1 @@
-HEAD
-This is the description of my repo
-Modification in main branch.
+## Git Branching Practice\n\nObjective: Practice creating branches, merging, and resolving conflicts.
